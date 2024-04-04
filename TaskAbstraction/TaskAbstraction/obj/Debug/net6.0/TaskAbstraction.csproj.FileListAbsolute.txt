@@ -1,0 +1,14 @@
+C:\Users\I'm Pasha\source\repos\TaskAbstraction\TaskAbstraction\bin\Debug\net6.0\TaskAbstraction.exe
+C:\Users\I'm Pasha\source\repos\TaskAbstraction\TaskAbstraction\bin\Debug\net6.0\TaskAbstraction.deps.json
+C:\Users\I'm Pasha\source\repos\TaskAbstraction\TaskAbstraction\bin\Debug\net6.0\TaskAbstraction.runtimeconfig.json
+C:\Users\I'm Pasha\source\repos\TaskAbstraction\TaskAbstraction\bin\Debug\net6.0\TaskAbstraction.dll
+C:\Users\I'm Pasha\source\repos\TaskAbstraction\TaskAbstraction\bin\Debug\net6.0\TaskAbstraction.pdb
+C:\Users\I'm Pasha\source\repos\TaskAbstraction\TaskAbstraction\obj\Debug\net6.0\TaskAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I'm Pasha\source\repos\TaskAbstraction\TaskAbstraction\obj\Debug\net6.0\TaskAbstraction.AssemblyInfoInputs.cache
+C:\Users\I'm Pasha\source\repos\TaskAbstraction\TaskAbstraction\obj\Debug\net6.0\TaskAbstraction.AssemblyInfo.cs
+C:\Users\I'm Pasha\source\repos\TaskAbstraction\TaskAbstraction\obj\Debug\net6.0\TaskAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\I'm Pasha\source\repos\TaskAbstraction\TaskAbstraction\obj\Debug\net6.0\TaskAbstraction.dll
+C:\Users\I'm Pasha\source\repos\TaskAbstraction\TaskAbstraction\obj\Debug\net6.0\refint\TaskAbstraction.dll
+C:\Users\I'm Pasha\source\repos\TaskAbstraction\TaskAbstraction\obj\Debug\net6.0\TaskAbstraction.pdb
+C:\Users\I'm Pasha\source\repos\TaskAbstraction\TaskAbstraction\obj\Debug\net6.0\TaskAbstraction.genruntimeconfig.cache
+C:\Users\I'm Pasha\source\repos\TaskAbstraction\TaskAbstraction\obj\Debug\net6.0\ref\TaskAbstraction.dll
